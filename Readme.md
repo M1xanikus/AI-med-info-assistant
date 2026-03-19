@@ -26,7 +26,7 @@ diplomaPRj/
 
 👉 **[Скачать server.exe → Releases](../../releases/latest)**
 
-Положите `server.exe` в корень папки проекта.
+Положите `server.exe` и `faiss_index` в корень папки проекта.
 
 ### 2. Скачать языковую модель
 
@@ -43,6 +43,7 @@ prjFolder/
 ├── server.exe
 ├── chat_widget.html
 ├── docs/
+├── faiss_index/
 ├── aliases.json
 └── qwen2.5-1.5b-instruct-q4_k_m.gguf
 ```
