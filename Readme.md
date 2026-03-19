@@ -39,7 +39,7 @@ diplomaPRj/
 ### После загрузки структура должна выглядеть так:
 
 ```
-diplomaPRj/
+folderProj/
 ├── server.exe
 ├── chat_widget.html
 ├── docs/
